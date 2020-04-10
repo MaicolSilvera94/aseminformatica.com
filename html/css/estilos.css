@@ -5,9 +5,14 @@ body {
 	font-family: 'Open Sans', sans-serif;
 	font-size: 15px;
 }
-.asem {
+.tilesec {
+	background:#57dcf1;
+}
+
+.tilesec h4 {
 	text-align: center;
-	margin-top: 7px;
+	margin-top: 10px;
+	margin-bottom: 10px;
 }
 .navbar-header img {
     border: 0px;
@@ -117,6 +122,7 @@ footer h2 {
 	border: 2px solid #ccc;
 	padding: 15px;
 	margin-top: 50px;
+	margin-bottom: 50px;
 }
 
 .section-info .box-info:hover {
@@ -318,4 +324,5 @@ div .box-info {
 .navbar-header img{
 	margin-left: 20px;
 	}
+
 }

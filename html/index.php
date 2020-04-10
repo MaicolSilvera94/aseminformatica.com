@@ -11,6 +11,9 @@
     <section class="section-info">
       <div class="container">
         <h1 class="title">ASEM INFORMATICA</h1>
+        <div class="tilesec col-sm-12">
+          <h4>MIS PROYECTOS PENDIENTES</h4>
+        </div>
         <div class="row">
   					<div class="col-sm-3">
   						<div class="box-info">
@@ -28,6 +31,9 @@
   							 <a href="#"><h3>SERVICIO TECNICO PJAP</h3></a>
   						</div>
   					</div>
+          </div>
+          <div class="tilesec col-sm-12">
+            <h4>MIS PROYECTOS TERMINADOS</h4>
           </div>
         </div>
     </section>
