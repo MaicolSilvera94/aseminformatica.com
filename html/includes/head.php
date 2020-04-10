@@ -9,5 +9,5 @@
 <link rel="stylesheet" href="css/estilos.css">
 <script src="js/jquery-3.2.0.min.js"></script>
 <script src="js/bootstrap.js"></script>
-<meta name="theme-color" content="#7cfff1">
+<meta name="theme-color" content="#57dcf1">
 <link rel="shortcut icon" src="images/logos/logoasem.jpg">

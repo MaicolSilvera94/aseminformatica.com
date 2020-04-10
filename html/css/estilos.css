@@ -1,10 +1,19 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800');
 @import url('https://fonts.googleapis.com/css?family=Baloo+Tammudu');
 body {
-	background:   #7cfff1;
+	background:   ;
 	font-family: 'Open Sans', sans-serif;
+	font-size: 15px;
 }
-
+.asem {
+	text-align: center;
+	margin-top: 7px;
+}
+.navbar-header img {
+    border: 0px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
 main {
 	margin-top: 52px;
 }
@@ -22,7 +31,7 @@ main {
 }
 
 .navbar-default {
-	background: #ffffff;
+	background: #57dcf1;
 	border: none;
 	border-radius: 0;
 	box-shadow: 0px 2px 5px 0px rgba(91, 91, 91, 0.5);
@@ -105,7 +114,7 @@ footer h2 {
 }
 
 .section-info .box-info {
-	border: 1px solid #ccc;
+	border: 2px solid #ccc;
 	padding: 15px;
 	margin-top: 50px;
 }
@@ -113,7 +122,7 @@ footer h2 {
 .section-info .box-info:hover {
 	background: #ffffff;
 	border-color: #999999;
-	border: 2px;
+
 }
 
 div .box-info {

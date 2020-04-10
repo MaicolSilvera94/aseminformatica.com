@@ -1,18 +1,18 @@
 <header>
-		<nav class="navbar navbar-default navbar-fixed-top">
-  			<div class="container">
-			    <!-- Brand and toggle get grouped for better mobile display -->
-			    <div class="navbar-header">
-			      	<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#menu-navbar" aria-expanded="false">
-				        <span class="sr-only">Toggle navigation</span>
-				        <span class="icon-bar"></span>
-				        <span class="icon-bar"></span>
-				        <span class="icon-bar"></span>
-			      	</button>
-	      			<a class="navbar-header" href="#">
-	      				<img src="images/logos/logoasem.jpg" width="70px">
-	      			</a>
-	    		</div>
+	<nav class="navbar navbar-default navbar-fixed-top">
+			<div class="container">
+				<!-- Brand and toggle get grouped for better mobile display -->
+				<div class="navbar-header">
+						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#menu-navbar" aria-expanded="false">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+						<a class="navbar-header" href="#">
+							<img src="images/logos/logopng2.png" width="40px">
+						</a>
+				</div>
 
 			    <div class="collapse navbar-collapse" id="menu-navbar">
 			      <ul class="nav navbar-nav navbar-right">
