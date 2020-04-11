@@ -35,6 +35,16 @@
           <div class="tilesec col-sm-12">
             <h4>MIS PROYECTOS TERMINADOS</h4>
           </div>
+          <div class="row">
+    					<div class="col-sm-3">
+    						<div class="box-info">
+    							<i class="icon">
+                    <img src="images/logos/CSJ.jpg" width="100px">
+                  </i>
+    							 <a href="https://www.pjap.gov.py/"><h3>WWW.PJAP.GOB.PY</h3></a>
+    						</div>
+    					</div>
+            </div>
         </div>
     </section>
   </main>
