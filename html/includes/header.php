@@ -9,9 +9,12 @@
 							<span class="icon-bar"></span>
 							<span class="icon-bar"></span>
 						</button>
-						<a class="navbar-header" href="#">
+						<a class="navbar-header" href="index.php">
 							<img src="images/logos/logopng2.png" width="40px">
 						</a>
+						<div class="asem navbar-header collapse navbar-collapse" id="menu-navbar">
+							<h3>ASEM</h3>
+						</div>
 				</div>
 
 			    <div class="collapse navbar-collapse" id="menu-navbar">
