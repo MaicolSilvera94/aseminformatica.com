@@ -12,9 +12,9 @@
 						<a class="navbar-header" href="index.php">
 							<img src="images/logos/logopng2.png" width="40px">
 						</a>
-						<div class="asem navbar-header collapse navbar-collapse" id="menu-navbar">
+						<!--<div class="asem navbar-header collapse navbar-collapse" id="menu-navbar">
 							<h3>ASEM</h3>
-						</div>
+						</div>-->
 				</div>
 
 			    <div class="collapse navbar-collapse" id="menu-navbar">
